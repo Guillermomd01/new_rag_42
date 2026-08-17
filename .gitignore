@@ -1,0 +1,19 @@
+__pycache__/
+venv/
+src/rag_against_the_machine.egg-info
+uv.lock
+moulinette-ubuntu
+data/
+exams/
+evaluation/
+CLAUDE.md
+.claudeignore
+Intra Projects RAG against the machine Edit.pdf
+Intra Projects RAG against the machine Edit.pdf:Zone.Identifier
+rag_subject.md
+evaluations/
+rag_nuevo.pdf
+READMERAG.md
+vllm-0.10.1.zip
+datasets_public.zip
+rag_nuevo - copia.pdf:Zone.Identifier
